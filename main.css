@@ -1,0 +1,40 @@
+.nav-bar {
+	/*background-color: #F5BE12;*/
+	position: fixed;
+	width: 100%;
+	/*max-width: 1000px;*/
+  	/*padding-left: 20px;
+  	padding-right: 20px;*/
+  	margin: 0 auto;
+}
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
